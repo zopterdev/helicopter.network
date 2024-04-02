@@ -1,0 +1,11 @@
+{
+  "name": "helicopter.network",
+  "version": "1.0.0",
+  "description": "Helicopter Network Companies & Flight Schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zopterdev",
+  "license": "MIT"
+}
